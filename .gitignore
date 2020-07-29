@@ -1,0 +1,7 @@
+#ignore all key files
+*.key
+#ignore all log files
+logs/**/*.log
+#ignore all backup files
+*.bak
+*.bak*
